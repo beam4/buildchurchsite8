@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Neat Starter
+title: Neatt Starter
 path: home
 ---
 
@@ -21,3 +21,32 @@ path: home
 
   {% include "./_includes/partials/content.html" %}
 /div> -->
+
+A
+
+B
+
+# C
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+E
+
+F
+
+G
