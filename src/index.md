@@ -1,10 +1,9 @@
 ---
-layout: default
-title: Neatt Starter
+layout: home
+title: Neaty Starter
 path: home
 ---
 
-{% include "./_includes/partials/hero.html" %}
 
    <!-- <div class="container mx-auto lg:h-screen flex flex-col justify-center items-center">
  <h1>
