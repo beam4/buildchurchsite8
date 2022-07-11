@@ -1,7 +1,6 @@
 ---
 layout: home
 title: Neaty Starter
-path: home
 ---
 
 
